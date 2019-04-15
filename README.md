@@ -1,1 +1,1 @@
-# This is atest
+{"jshome":"advennsha.info","tabhome":"search.bulletiz.info"}
